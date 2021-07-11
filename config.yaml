@@ -1,0 +1,8 @@
+uat:
+  HTTP:
+    host: http://www.baidu.com
+    port: 8080
+
+prod:
+
+PATH:
