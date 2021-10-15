@@ -1,8 +1,12 @@
-uat:
+UAT:
   HTTP:
-    host: http://www.baidu.com
-    port: 8080
+    HOST: http://www.baidu.com
+    PORT: 8080
 
-prod:
+PROD:
+  HTTP:
+    HOST: https://joinchitchat.com
+    PORT: 443
+    PATH: /chitchat-mobile-web/api/v1/schedule/query
 
 PATH:
